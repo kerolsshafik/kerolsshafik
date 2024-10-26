@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Kerols shafik!
 ![Profile Views](https://komarev.com/ghpvc/?username=kerols_shafik&style=flat-square&color=blue)
 
-## 🐘 PHP Backend Developer | Aspiring Full-Stack Developer | Linux Enthusiast
+## 🐘 PHP Backend Developer | Full-Stack Developer 
 
 ---
 
