@@ -1,5 +1,5 @@
-# 👋 Hello, I'm Kerols shafik!
-https://kerols-shafik-portfolio.my.canva.site/
+# 👋 Hello, I'm Kerols shafik!!
+https://kerolsshafik.github.io/kerols-portfolio/
 
 ## 🐘 PHP Backend Developer | Full-Stack Developer 
 
